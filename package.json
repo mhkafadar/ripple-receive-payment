@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ripple-lib": "^1.0.1",
+    "ws": "^6.1.0"
+  }
+}
